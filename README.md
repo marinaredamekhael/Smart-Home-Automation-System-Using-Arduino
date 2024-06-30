@@ -1,5 +1,7 @@
 # Smart Home Automation System Using Arduino
 ![image](https://github.com/marinaredamekhael/Smart-Home-Automation-System-Using-Arduino/blob/main/smarthome/IMG-20240524-WA0008.jpg)
+![image](https://github.com/marinaredamekhael/Smart-Home-Automation-System-Using-Arduino/blob/main/smarthome/IMG-20240524-WA0012.jpg)
+
 ## Overview
 This project presents a Smart Home Automation System using Arduino, designed as an IoT project for an embedded systems course. The system integrates various sensors and actuators to monitor and control home appliances and environmental conditions, enhancing convenience, security, and energy efficiency.
 
@@ -64,5 +66,5 @@ This project presents a Smart Home Automation System using Arduino, designed as 
 This Smart Home Automation System prototype aims to enhance comfort, security, and energy efficiency in homes. It demonstrates the potential of accessible smart home solutions and paves the way for future innovations in home automation.
 
 ## Contact
--For any queries, feel free to reach out to [marinareda554@gmail.com].
--[linkedin](https://www.linkedin.com/in/marina-reda-863643250/)
+- For any queries, feel free to reach out to [marinareda554@gmail.com].
+- [linkedin](https://www.linkedin.com/in/marina-reda-863643250/)
