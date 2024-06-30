@@ -29,22 +29,6 @@ This project presents a Smart Home Automation System using Arduino, designed as 
 - **Display:**
   - LCD 1602 Display Module
 
-## Installation
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/marinaredamekhael/Smart-Home-Automation-System-Using-Arduino.git
-
-### 2. Upload Code to Arduino
-- Open the Arduino IDE.
-- Connect your Arduino board to your computer.
-- Upload the provided code to the Arduino board.
-
-### 3. Hardware Setup
-- Connect the relay modules to the Arduino.
-- Connect the home appliances to the relay modules.
-- Set up the sensors and Wi-Fi module as per the circuit diagram.
-
 ## Usage
 - **Power On:** Ensure that the Arduino board and all components are properly powered.
 - **Connect to Wi-Fi:** Make sure the Wi-Fi module is connected to your home network.
