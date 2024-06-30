@@ -34,7 +34,7 @@ This project presents a Smart Home Automation System using Arduino, designed as 
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/marinaredamekhael/Smart-Home-Automation-System-Using-Arduino.git
-'''
+
 ### 2. Upload Code to Arduino
 - Open the Arduino IDE.
 - Connect your Arduino board to your computer.
